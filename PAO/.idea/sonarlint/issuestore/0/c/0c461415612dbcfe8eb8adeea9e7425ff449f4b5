@@ -1,0 +1,30 @@
+
+R
+java:S1854 "5Remove this useless assignment to local variable "f".(Ş­Ê°8©Ö³.
+H
+java:S1481	"&Remove this unused "a" local variable.(÷«½‰ùÿÿÿÿ8©Ö³.
+C
+java:S1481"&Remove this unused "c" local variable.(ıÂ¢÷8©Ö³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âÙ¬ú8©Ö³.
+H
+java:S1481"&Remove this unused "b" local variable.(•ş¾ÿÿÿÿÿ8©Ö³.
+R
+java:S1854"5Remove this useless assignment to local variable "c".(ıÂ¢÷8©Ö³.
+W
+java:S1854!"5Remove this useless assignment to local variable "g".(íûÖ’ùÿÿÿÿ8©Ö³.
+m
+java:S1192"PDefine a constant instead of duplicating this literal "Lungimea este: " 3 times.(âÙ¬ú8©Ö³.
+C
+java:S1481"&Remove this unused "e" local variable.(›ú¤Ü8©Ö³.
+R
+java:S1854"5Remove this useless assignment to local variable "e".(›ú¤Ü8©Ö³.
+Z
+java:S1197"8Move the array designator from the variable to the type.(•ş¾ÿÿÿÿÿ8©Ö³.
+H
+java:S1481!"&Remove this unused "g" local variable.(íûÖ’ùÿÿÿÿ8©Ö³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âÙ¬ú8©Ö³.
+C
+java:S1481 "&Remove this unused "f" local variable.(Ş­Ê°8©Ö³.
+R
+java:S1854"5Remove this useless assignment to local variable "a".(¯¢î’8©Ö³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âÙ¬ú8©Ö³.

@@ -1,0 +1,13 @@
+
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(èÜñêøÿÿÿÿ8õÕ’×ˆ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(çíçø8õÕ’×ˆ.
+Ssquid:S1481"0Remove this unused "valoareTest" local variable.(÷“†ãúÿÿÿÿ8âÅ×ˆ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èğ‚Òüÿÿÿÿ8õÕ’×ˆ.
+bsquid:S1854"?Remove this useless assignment to local variable "valoareTest".(÷“†ãúÿÿÿÿ8âÅ×ˆ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡™ç×8õÕ’×ˆ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õà×Æÿÿÿÿÿ8õÕ’×ˆ.

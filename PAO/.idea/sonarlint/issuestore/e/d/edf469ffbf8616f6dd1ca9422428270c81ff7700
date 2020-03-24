@@ -1,0 +1,15 @@
+
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(– ñÎúÿÿÿÿ8†Ñ¥€.
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(À¢õş8ò€ô¶.
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ğ·Æ8õ®©€.
+T
+java:S1854"7Remove this useless assignment to local variable "sb2".(Ğ·Æ8õ®©€.
+M
+java:S1172"+Remove this unused method parameter "args".(Û·ÍÂúÿÿÿÿ8ò€ô¶.
+E
+java:S1481"(Remove this unused "sb2" local variable.(Ğ·Æ8õ®©€.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Çç•üÿÿÿÿ8ú”§€.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Úê¼Ùüÿÿÿÿ8ò€ô¶.

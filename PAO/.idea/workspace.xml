@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76dacb28-d03e-4ebc-adc4-bce1c4b72c39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YPcelBiJeZsdShAfAZRKdOC1cL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Ex9">
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Ex5" />
+      <module name="PAO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Ex6" />
+      <module name="PAO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Ex7" />
+      <module name="PAO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Ex8" />
+      <module name="PAO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab4.Ex9" />
+      <module name="PAO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex9" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex7" />
+        <item itemvalue="Application.Ex6" />
+        <item itemvalue="Application.Ex5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76dacb28-d03e-4ebc-adc4-bce1c4b72c39" name="Default Changelist" comment="" />
+      <created>1582847767563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582847767563</updated>
+      <workItem from="1582847772059" duration="634000" />
+      <workItem from="1582877281369" duration="2619000" />
+      <workItem from="1582886689599" duration="732000" />
+      <workItem from="1583412604569" duration="1923000" />
+      <workItem from="1583432340447" duration="9018000" />
+      <workItem from="1583500645617" duration="1452000" />
+      <workItem from="1584101385908" duration="475000" />
+      <workItem from="1584391035249" duration="18930000" />
+      <workItem from="1584515472149" duration="130000" />
+      <workItem from="1584530025752" duration="58000" />
+      <workItem from="1584569572958" duration="7079000" />
+      <workItem from="1584618999542" duration="14440000" />
+      <workItem from="1584689633269" duration="8000" />
+      <workItem from="1585053145886" duration="168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2638" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1584455565634">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584398511872" />
+    <state x="2638" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584455565634" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584424804059" />
+    <state x="592" y="219" key="FileChooserDialogImpl" timestamp="1584101515648">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="219" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584101515648" />
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.56.1536.824@0.0.1920.1040" timestamp="1583502094867" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom" timestamp="1584631471847">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584575551777" />
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584631471847" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584625022132" />
+    <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.56.1536.824@0.0.1920.1040" timestamp="1583502102317" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center" timestamp="1584631471847">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584575551777" />
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584631471847" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584625022131" />
+    <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.56.1536.824@0.0.1920.1040" timestamp="1583502102317" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left" timestamp="1584631471847">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584575551777" />
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584631471847" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584625022131" />
+    <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.56.1536.824@0.0.1920.1040" timestamp="1583502102317" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right" timestamp="1584631471847">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1584575551777" />
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584631471847" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584625022132" />
+    <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.56.1536.824@0.0.1920.1040" timestamp="1583502102317" />
+    <state x="2181" y="42" key="new project wizard" timestamp="1584631169712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2181" y="42" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584631169712" />
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584530081739" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584454972742">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584454972742" />
+  </component>
+</project>

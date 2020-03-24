@@ -1,0 +1,20 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "HELLO" 4 times.(ïà©¹ùÿÿÿÿ
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(Ú®†Œúÿÿÿÿ
+N
+java:S4973!"9Use the "equals" method if value comparison was intended.(ü×¼"
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äÑéôÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ôèó¼øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰õœËøÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(ïà©¹ùÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(˜“Éþûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú®†Œúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÉñƒþÿÿÿÿ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(ü×¼"
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ë¦Ï‚ÿÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¹®…û
+V	java:S125"<This block of commented-out lines of code should be removed.(¼Ò¸¿ùÿÿÿÿ
