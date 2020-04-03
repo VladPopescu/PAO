@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ύμη8Ω£έ“.
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(•―ÿÿÿÿÿ8³Λέ“.
+E
+java:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8³Λέ“.

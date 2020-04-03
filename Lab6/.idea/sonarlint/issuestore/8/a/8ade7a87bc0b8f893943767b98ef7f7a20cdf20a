@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·…™éûÿÿÿÿ8­¿ÅÜ“.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±¤ªì8·ÄÆÜ“.
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8­¿ÅÜ“.
+e
+java:S2259"HA "NullPointerException" could be thrown; "fileReader" is nullable here.(¦ÈøÉ8 ×Ü“.
+E	java:S108")Either remove or fill this block of code.(Á¸ğ‹8ß—ÕÜ“.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8á©±Ü“.
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ä—ËÜ“.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÕÆÕÜ“.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì‹ß ÿÿÿÿÿ8ä—ËÜ“.
+E
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞüÉÜ“.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰Õœà8ß—ÕÜ“.

@@ -1,0 +1,24 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ÆËÅ¡8òÃŞİ“.
+Y
+java:S1854"<Remove this useless assignment to local variable "student1".(Üê¸Ú8òÃŞİ“.
+E
+java:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•ÈĞİ“.
+E
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•ÈĞİ“.
+l
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ß´¯ˆ8Å¼Øİ“.
+]	java:S125"<This block of commented-out lines of code should be removed.(­ÀË‡ûÿÿÿÿ8òÃŞİ“.
+a
+java:S2147+"DCombine this catch with the one at line 41, which has the same body.(ï­£Ä8•ÈĞİ“.
+J
+java:S1481"-Remove this unused "student1" local variable.(Üê¸Ú8òÃŞİ“.
+^
+java:S1854"<Remove this useless assignment to local variable "student2".(…ˆ¹Ûşÿÿÿÿ8òÃŞİ“.
+]	java:S125"<This block of commented-out lines of code should be removed.(æƒ²Şıÿÿÿÿ8òÃŞİ“.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(­§ü8©÷İİ“.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Õ×—Ì8·×İ“.
+O
+java:S1481"-Remove this unused "student2" local variable.(…ˆ¹Ûşÿÿÿÿ8òÃŞİ“.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(‡ó°ö8©§İİ“.

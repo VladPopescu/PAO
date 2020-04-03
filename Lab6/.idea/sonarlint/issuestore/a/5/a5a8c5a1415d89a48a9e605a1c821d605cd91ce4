@@ -1,0 +1,12 @@
+
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ı¸’8îáóÜ“.
+]	java:S125"<This block of commented-out lines of code should be removed.(›ØÕùÿÿÿÿ8îáóÜ“.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸úå8ÿÜ“.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ºˆöÜ“.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÕøìşÿÿÿÿ8ò·şÜ“.
+d
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ê¬Ä98ú´…İ“.
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(äºÆí8ƒûúÜ“.
