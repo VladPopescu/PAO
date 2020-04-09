@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b25f172-2d36-4891-b80f-1cc1bf22ba88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJCyiBwYPa50tztnDlnMnlcK8T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Ex10">
+    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ex10.Ex10" />
+      <module name="Lab7Pao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ex10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ex5.Ex5" />
+      <module name="Lab7Pao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ex5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ex7.Ex7" />
+      <module name="Lab7Pao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ex7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ex8.Ex8" />
+      <module name="Lab7Pao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ex8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ex6.Main" />
+      <module name="Lab7Pao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ex6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ex5" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Ex7" />
+      <item itemvalue="Application.Ex8" />
+      <item itemvalue="Application.Ex10" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex10" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex7" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Ex5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b25f172-2d36-4891-b80f-1cc1bf22ba88" name="Default Changelist" comment="" />
+      <created>1586444565682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586444565682</updated>
+      <workItem from="1586444577347" duration="4319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1586448174452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586448174452" />
+    <state width="1493" height="267" key="GridCell.Tab.0.bottom" timestamp="1586448681549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586448681549" />
+    <state width="1493" height="267" key="GridCell.Tab.0.center" timestamp="1586448681548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586448681548" />
+    <state width="1493" height="267" key="GridCell.Tab.0.left" timestamp="1586448681547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586448681547" />
+    <state width="1493" height="267" key="GridCell.Tab.0.right" timestamp="1586448681548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="267" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586448681548" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ex7/Ex7.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
+  </component>
+</project>
