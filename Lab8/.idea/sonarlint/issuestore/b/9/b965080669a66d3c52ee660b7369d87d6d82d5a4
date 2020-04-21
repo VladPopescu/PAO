@@ -1,0 +1,12 @@
+
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(³¦ÉÙ8¯úğÁ™.
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(‰Œ¾îÿÿÿÿÿ8¹˜ëÁ™.
+W
+java:S1611"5Remove the parentheses around the "message" parameter(ÖÉáßøÿÿÿÿ8Ä§ĞÁ™.
+]	java:S125"<This block of commented-out lines of code should be removed.(İä­èüÿÿÿÿ8¿ÉöÁ™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÉáßøÿÿÿÿ8—úéÁ™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãªÇ°ùÿÿÿÿ8—úéÁ™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ª±ÅÔúÿÿÿÿ8¯úğÁ™.
+X	java:S125"<This block of commented-out lines of code should be removed.(Áæ¢8×¨ÏÁ™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’ªÆùÿÿÿÿ8¹şÄÁ™.

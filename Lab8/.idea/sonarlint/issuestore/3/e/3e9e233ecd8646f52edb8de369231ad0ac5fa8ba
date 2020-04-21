@@ -1,0 +1,11 @@
+
+X	java:S125("<This block of commented-out lines of code should be removed.(›å¨Â8Œ‚³Ä™.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ó…³8ŠÚ•Ä™.
+V
+java:S4973%"9Use the "equals" method if value comparison was intended.(§ğŞ8Åğ“Ä™.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(­á¯Üüÿÿÿÿ8 ±ºÄ™.
+N
+java:S1612+",Replace this lambda with a method reference.(­á¯Üüÿÿÿÿ8 ±ºÄ™.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÛŞÕ½ûÿÿÿÿ8üø•Ä™.
+[
+java:S4973&"9Use the "equals" method if value comparison was intended.(à ’¤ÿÿÿÿÿ8ŒÜ—Ä™.

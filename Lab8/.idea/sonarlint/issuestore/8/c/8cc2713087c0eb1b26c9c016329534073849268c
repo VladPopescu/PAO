@@ -1,0 +1,12 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ØöÁÂ™.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(Ø½Çîúÿÿÿÿ8Ÿ®ÆÃ™.
+E
+java:S16044"(Make this anonymous inner class a lambda(Èú†8ÌÙÅÃ™.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Å¤•ëüÿÿÿÿ8®ÊáÂ™.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(„€ë•üÿÿÿÿ8úÜÆÂ™.
+V
+java:S1854'"9Remove this useless assignment to local variable "book1".(©ˆ˜Ä8é¾‹Ã™.
+G
+java:S1481'"*Remove this unused "book1" local variable.(©ˆ˜Ä8²Ñ‹Ã™.

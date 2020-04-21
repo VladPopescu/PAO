@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™­Öúùÿÿÿÿ8¿•óÊ™.
+r
+java:S4276"URefactor this code to use the more specialised Functional Interface 'BooleanSupplier'(È³ØŒ8£ÉêÇ™.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(›Ôéúşÿÿÿÿ8æ³äÇ™.
+r
+java:S4276"URefactor this code to use the more specialised Functional Interface 'BooleanSupplier'(•‰²Ó8£ÉêÇ™.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(“ä»+8æ³äÇ™.
+]	java:S125"<This block of commented-out lines of code should be removed.(¼îÿğıÿÿÿÿ8£ÉêÇ™.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‡Æ8ÏËåÇ™.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëî¦ã8ÏËåÇ™.
+J
+java:S1125"(Remove the literal "true" boolean value.(ÁÊÍÿÿÿÿÿ8æ³äÇ™.
+J
+java:S1125""(Remove the literal "true" boolean value.(ï¶·²úÿÿÿÿ8æ³äÇ™.

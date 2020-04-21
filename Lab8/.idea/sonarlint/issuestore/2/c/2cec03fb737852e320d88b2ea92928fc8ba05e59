@@ -1,0 +1,14 @@
+
+c
+java:S2259Y"FA "NullPointerException" could be thrown; "employee" is nullable here.(˜·£Ô8­€ºË™.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¯Òÿ•8É”£Ë™.
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(˜·£Ô8ï½¡Ë™.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(‡àýŽ8å²»Ë™.
+]	java:S125`"<This block of commented-out lines of code should be removed.(¼úÛÔúÿÿÿÿ8ï½¡Ë™.
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8ï½¡Ë™.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Óú„•8ï½¡Ë™.
+N
+java:S16124",Replace this lambda with a method reference.(žÁýçøÿÿÿÿ8ï½¡Ë™.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(¯äšýÿÿÿÿ8ï½¡Ë™.
+T	java:S106C"9Replace this use of System.out or System.err by a logger.(óªö(8›‰¼Ë™.
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¼ˆÈ­þÿÿÿÿ8ï½¡Ë™.

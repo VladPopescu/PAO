@@ -1,0 +1,35 @@
+
+t
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'LongUnaryOperator'(ùˆÑ8Ğ”ñÙ™.
+]	java:S125"<This block of commented-out lines of code should be removed.(¨±»şÿÿÿÿ8øŠâÙ™.
+X	java:S125!"<This block of commented-out lines of code should be removed.(İÍÄü8•–õÙ™.
+o
+java:S4276&"SRefactor this code to use the more specialised Functional Interface 'LongPredicate'(Âé…*8…ÛşÙ™.
+W
+java:S1854":Remove this useless assignment to local variable "result".(ø—ôâ8Ğ”ñÙ™.
+t
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'LongUnaryOperator'(¿ııı8Œ³ìÙ™.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(±‚·ëøÿÿÿÿ8Ôø€Ú™.
+I
+java:S1612=",Replace this lambda with a method reference.(ÎßßÔ8ê¬ÆÚ™.
+P
+java:S1611"3Remove the parentheses around the "value" parameter(ùˆÑ8Ğ”ñÙ™.
+H
+java:S1481"+Remove this unused "result" local variable.(ø—ôâ8Ğ”ñÙ™.
+Z
+java:S1612*"=Replace this lambda with method reference 'Objects::nonNull'.(Î²£ü8±¥ˆÚ™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†¼¨úÿÿÿÿ8Ğ”ñÙ™.
+q
+java:S4276="TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(ÎßßÔ8”ÏÆÚ™.
+N
+java:S16125",Replace this lambda with a method reference.(«øÕåüÿÿÿÿ8ÉëŸÚ™.
+U
+java:S16115"3Remove the parentheses around the "value" parameter(«øÕåüÿÿÿÿ8ÖĞŸÚ™.
+p
+java:S4276*"SRefactor this code to use the more specialised Functional Interface 'LongPredicate'(Î²£ü8±¥ˆÚ™.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(«øÕåüÿÿÿÿ8ÖĞŸÚ™.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êßşæùÿÿÿÿ
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(óß÷8ÁæˆÚ™.
+s
+java:S42765"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(«øÕåüÿÿÿÿ8ÉëŸÚ™.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(¢Ü·êøÿÿÿÿ8°¢ÊÚ™.

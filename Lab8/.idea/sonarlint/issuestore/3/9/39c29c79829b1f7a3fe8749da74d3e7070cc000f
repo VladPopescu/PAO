@@ -1,0 +1,9 @@
+
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ð¹ðòùÿÿÿÿ8ç¾¬Á™.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ù‡€³üÿÿÿÿ8ÁªºÁ™.
+J
+java:S1604
+"(Make this anonymous inner class a lambda(öí«Óþÿÿÿÿ8»Ì¥Á™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¦ƒ¹øÿÿÿÿ8ÇÞ­Á™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷×½Êøÿÿÿÿ8«¨Á™.
