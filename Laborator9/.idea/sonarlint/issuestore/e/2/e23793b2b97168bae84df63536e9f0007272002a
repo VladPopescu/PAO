@@ -1,0 +1,9 @@
+
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(þåÚâÿÿÿÿÿ8Áå½‹œ.
+u
+java:S1104"XMake waitedThread a static final constant or non-public and provide accessors if needed.(Æ¥Ã¶8¶ö²‹œ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“ÿ±­üÿÿÿÿ
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

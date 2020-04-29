@@ -1,0 +1,8 @@
+
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(»è“Óıÿÿÿÿ8úÉœ‹œ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äˆÌ‰8úÉœ‹œ.
+f
+java:S3014
+"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(¿òçÂ8¥§¢‹œ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÃùÔ8‘Æ›‹œ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãššùÿÿÿÿ8Çø¥‹œ.
