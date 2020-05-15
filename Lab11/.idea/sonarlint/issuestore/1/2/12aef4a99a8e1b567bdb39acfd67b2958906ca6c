@@ -1,0 +1,8 @@
+
+T
+java:S1128"2Remove this unused import 'java.net.ServerSocket'.(ĞúÙÿÿÿÿÿ8Ç¶º¡.
+Z
+java:S1854"8Remove this useless assignment to local variable "str2".(ã¹Ò¼ùÿÿÿÿ8–ÂÂ¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÚ“ıÿÿÿÿ8–ÂÂ¡.
+F
+java:S1481")Remove this unused "str2" local variable.(äª¦è8–ÂÂ¡.

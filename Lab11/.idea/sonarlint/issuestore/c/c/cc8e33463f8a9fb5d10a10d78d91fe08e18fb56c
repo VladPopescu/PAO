@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ç³àüÿÿÿÿ8™›†ƒ .
+f
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¤ÿè8™›†ƒ .
+]
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(¤ñ§8›Ğƒƒ .

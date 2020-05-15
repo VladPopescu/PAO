@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e3a0d64-0d90-4bc5-a99d-7b8a13b5814f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bjN8MxW2wWPrjmzyQYyBoTb5cA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pao.jdbc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PaoLabs\Lab11_SimpleServer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestCallableStatement">
+    <configuration name="MyClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pao.lab11.socket.ex2.MyClient" />
+      <module name="Lab11_SimpleServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pao.lab11.socket.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pao.lab11.socket.ex2.MyServer" />
+      <module name="Lab11_SimpleServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pao.lab11.socket.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCallableStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pao.jdbc.TestCallableStatement" />
+      <module name="Lab11_SimpleServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pao.jdbc.TestJdbc" />
+      <module name="Lab11_SimpleServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPreparedStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pao.jdbc.TestPreparedStatement" />
+      <module name="Lab11_SimpleServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pao.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyServer (1)" />
+      <item itemvalue="Application.MyClient (1)" />
+      <item itemvalue="Application.TestJdbc" />
+      <item itemvalue="Application.TestPreparedStatement" />
+      <item itemvalue="Application.TestCallableStatement" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCallableStatement" />
+        <item itemvalue="Application.TestPreparedStatement" />
+        <item itemvalue="Application.TestJdbc" />
+        <item itemvalue="Application.MyClient (1)" />
+        <item itemvalue="Application.MyServer (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e3a0d64-0d90-4bc5-a99d-7b8a13b5814f" name="Default Changelist" comment="" />
+      <created>1589141382702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589141382702</updated>
+      <workItem from="1589141384088" duration="8273000" />
+      <workItem from="1589177794562" duration="616000" />
+      <workItem from="1589179301882" duration="1311000" />
+      <workItem from="1589190320271" duration="610000" />
+      <workItem from="1589304774506" duration="7688000" />
+      <workItem from="1589457105900" duration="7351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1589305452484">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589305452484" />
+    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1589151082995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589151082995" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1589150722640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589150722640" />
+    <state width="746" height="280" key="GridCell.Tab.0.bottom" timestamp="1589473045005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473045005" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589467471628" />
+    <state width="746" height="280" key="GridCell.Tab.0.center" timestamp="1589473045005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="280" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473045005" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589467471627" />
+    <state width="746" height="280" key="GridCell.Tab.0.left" timestamp="1589473045005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="280" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473045005" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589467471627" />
+    <state width="746" height="280" key="GridCell.Tab.0.right" timestamp="1589473045005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="280" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473045005" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589467471627" />
+    <state width="746" height="194" key="GridCell.Tab.1.bottom" timestamp="1589473044962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="194" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473044962" />
+    <state width="746" height="194" key="GridCell.Tab.1.center" timestamp="1589473044962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="194" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473044962" />
+    <state width="746" height="194" key="GridCell.Tab.1.left" timestamp="1589473044962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="194" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473044962" />
+    <state width="746" height="194" key="GridCell.Tab.1.right" timestamp="1589473044962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="194" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589473044962" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1589150732842">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589150732842" />
+    <state x="2262" y="140" key="new project wizard" timestamp="1589466560761">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="140" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589466560761" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pao/test/jdbc/DbConnectionTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pao/lab11/socket/ex2/MyServer.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pao/lab11/socket/ex2/MyServer.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/pao/lab11/socket/ex1/MyClient.java</url>
+          <line>10</line>
+          <properties class="com.pao.lab11.socket.ex1.MyClient" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

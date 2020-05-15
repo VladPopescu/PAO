@@ -1,0 +1,10 @@
+
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8é¾ÖÑ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıçâÊûÿÿÿÿ8Ë°ËÑ .
+E
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ı¨ÖÑ .
+L
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8É‘ÒÑ .
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ıÚüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(î‰È28¬êØÑ .

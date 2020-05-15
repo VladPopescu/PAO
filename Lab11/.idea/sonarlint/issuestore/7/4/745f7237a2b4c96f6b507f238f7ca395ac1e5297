@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ıÚüÿÿÿÿ8úÉ¨Ò .
+Z
+java:S1854"=Remove this useless assignment to local variable "resultSet".(ŒŠ³Ä8ûãÚÒ .
+E
+java:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8úÉ¨Ò .
+K
+java:S1481".Remove this unused "resultSet" local variable.(ŒŠ³Ä8ûãÚÒ .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıçâÊûÿÿÿÿ8½šÔÒ .

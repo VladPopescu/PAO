@@ -1,0 +1,9 @@
+
+E
+java:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8šù… .
+E
+java:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ô•”† .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ıÚüÿÿÿÿ8–àú… .
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ÿ¼§Ó8ÜùÄ† .
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıçâÊûÿÿÿÿ8øòú… .
+X	java:S125"<This block of commented-out lines of code should be removed.(„«ª¼8ßò·† .
