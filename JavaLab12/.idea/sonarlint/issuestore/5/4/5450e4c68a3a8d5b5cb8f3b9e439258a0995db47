@@ -1,0 +1,8 @@
+
+m	java:S116"QRename this field "JLabel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûòê¢8¯©Æ £.
+J
+java:S1604"(Make this anonymous inner class a lambda(ÊŞ’ƒıÿÿÿÿ8‹Û £.
+X	java:S110"<This class has 6 parents which is greater than 5 authorized.(¸Ü¤‰8ÍúÌ £.
+G
+java:S1068"*Remove this unused "JLabel" private field.(ûòê¢8¯©Æ £.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è²Ãª8ØÈæ £.

@@ -1,0 +1,71 @@
+
+C
+java:S1659"!Declare "beq" on a separate line.(ÁŠ—žÿÿÿÿÿ8°Î´°£.
+Y
+java:S2696º"6Make the enclosing method "static" or remove this set.(âÃ²×ýÿÿÿÿ8°Î´°£.
+B
+java:S1659" Declare "b0" on a separate line.(“ïýîþÿÿÿÿ8°Î´°£.
+B
+java:S1659" Declare "b4" on a separate line.(“ïýîþÿÿÿÿ8›™É¯£.
+T
+java:S2696Ç"6Make the enclosing method "static" or remove this set.(ÞÔªø8°Î´°£.
+D
+java:S1659""Declare "bdel" on a separate line.(ÁŠ—žÿÿÿÿÿ8°Î´°£.
+B
+java:S1659" Declare "b3" on a separate line.(“ïýîþÿÿÿÿ8ñ«ß¯£.
+B
+java:S1659" Declare "b5" on a separate line.(“ïýîþÿÿÿÿ8›™É¯£.
+T
+java:S2696´"6Make the enclosing method "static" or remove this set.(ÚèïÂ8°Î´°£.
+B
+java:S1659" Declare "b6" on a separate line.(“ïýîþÿÿÿÿ8ñ«ß¯£.
+Y
+java:S2696­"6Make the enclosing method "static" or remove this set.(ßîÃÌøÿÿÿÿ8¾çÒ¯£.
+Y
+java:S2696³"6Make the enclosing method "static" or remove this set.(ßîÃÌøÿÿÿÿ8¾çÒ¯£.
+D
+java:S1659""Declare "bclr" on a separate line.(ÁŠ—žÿÿÿÿÿ8°Î´°£.
+B
+java:S1659" Declare "b2" on a separate line.(“ïýîþÿÿÿÿ8›™É¯£.
+Y
+java:S2696¹"6Make the enclosing method "static" or remove this set.(ßîÃÌøÿÿÿÿ8¾çÒ¯£.
+B
+java:S1659" Declare "b7" on a separate line.(“ïýîþÿÿÿÿ8›™É¯£.
+A
+java:S1659"$Declare "result" on a separate line.(ÊšºÅ8°Î´°£.
+t
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¼ Òþüÿÿÿÿ8°Î´°£.
+Y
+java:S2696¨"6Make the enclosing method "static" or remove this set.(þ½Ô¹ûÿÿÿÿ8°Î´°£.
+T
+java:S2696®"6Make the enclosing method "static" or remove this set.(ô¶ËÜ8°Î´°£.
+T
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(Š——Õ8°Î´°£.
+B
+java:S1659" Declare "b8" on a separate line.(“ïýîþÿÿÿÿ8›™É¯£.
+Y
+java:S2696Ï"6Make the enclosing method "static" or remove this set.(±Ñé¨ýÿÿÿÿ8°Î´°£.
+Y
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(ó÷í•ùÿÿÿÿ8°Î´°£.
+<
+java:S1659"Declare "b" on a separate line.(ÊšºÅ8°Î´°£.
+D
+java:S1659""Declare "bsub" on a separate line.(ÁŠ—žÿÿÿÿÿ8°Î´°£.
+B
+java:S1659" Declare "b9" on a separate line.(“ïýîþÿÿÿÿ8°Î´°£.
+Y
+java:S2696§"6Make the enclosing method "static" or remove this set.(ßîÃÌøÿÿÿÿ8¾çÒ¯£.
+D
+java:S1659""Declare "bmul" on a separate line.(ÁŠ—žÿÿÿÿÿ8°Î´°£.
+D
+java:S1659""Declare "badd" on a separate line.(ÁŠ—žÿÿÿÿÿ8°Î´°£.
+D
+java:S1659""Declare "bdec" on a separate line.(ÁŠ—žÿÿÿÿÿ8°Î´°£.
+Y
+java:S2696Ó"6Make the enclosing method "static" or remove this set.(üø¤ðùÿÿÿÿ8°Î´°£.
+k
+java:S3252`"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8°Î´°£.
+T
+java:S2696¿"6Make the enclosing method "static" or remove this set.(¢Öœ¾8°Î´°£.
+M
+java:S1128"0Remove this unused import 'java.awt.GridLayout'.(ÀÚñæ8ÃÇÂ°£.

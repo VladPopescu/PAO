@@ -1,0 +1,5 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ø®äÇ8áÁÜ¡£.
+X	java:S110"<This class has 6 parents which is greater than 5 authorized.(é’Ú8áÁÜ¡£.
+Z
+java:S1197!"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8áÁÜ¡£.

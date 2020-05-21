@@ -1,0 +1,7 @@
+
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ª­¡üÿÿÿÿ8ÌÊ £.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÕŠåÍ8ÌÊ £.
+f
+java:S32521"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8‘¨ £.
+]	java:S110
+"<This class has 6 parents which is greater than 5 authorized.(®êõıÿÿÿÿ8ûÏƒ £.
